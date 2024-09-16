@@ -1,0 +1,4 @@
+Q2: What field could data science be applied to? Give and Example and how it might help
+
+Answer: It could be applied to biology! Big data is becoming increasingly common in the Biological Sciences especially with the introduction of Next Generation Sequencing. Using data science techniques, we can mine this wealth of data to derive actionable insights to help patients!
+
