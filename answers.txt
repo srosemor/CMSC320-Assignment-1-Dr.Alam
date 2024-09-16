@@ -2,3 +2,8 @@ Q1: Why might be consider using git?
 
 Answer: It serves as a central location for all of versions of your code. This makes it easier to track changes from version to version and go back to a previous version if I screwed something up (which is pretty likely tbh)
 
+Q2: What field could data science be applied to? Give and Example and how it might help
+
+Answer: It could be applied to biology! Big data is becoming increasingly common in the Biological Sciences especially with the introduction of Next Generation Sequencing. Using data science techniques, we can mine this wealth of data to derive actionable insights to help patients!
+
+
