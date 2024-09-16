@@ -12,3 +12,8 @@ Answer: Both are ways of managing multiple branches and integrating them into on
 fact that rebasing essentially combines the history of the branches with the main resulting in 1 shared history. However, 
 merging perserves the history of each indpendent branch and any merge conflicts are handled manually by the user
 
+Q4: What skills do you hope to improve during this course?
+
+Answer: I hope to feel comfortable coding in python and implementing higher level data analysis techniques such as machine learning
+for my own research endevors 
+
