@@ -6,4 +6,9 @@ Q2: What field could data science be applied to? Give and Example and how it mig
 
 Answer: It could be applied to biology! Big data is becoming increasingly common in the Biological Sciences especially with the introduction of Next Generation Sequencing. Using data science techniques, we can mine this wealth of data to derive actionable insights to help patients!
 
+Q3: What is the difference between merging and rebasing?
+
+Answer: Both are ways of managing multiple branches and integrating them into one final product. The difference lies in the 
+fact that rebasing essentially combines the history of the branches with the main resulting in 1 shared history. However, 
+merging perserves the history of each indpendent branch and any merge conflicts are handled manually by the user
 
